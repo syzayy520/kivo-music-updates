@@ -1,0 +1,2 @@
+# No external dependencies are required for the current rule-based demo.
+# Python 3.9+ is recommended.
